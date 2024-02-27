@@ -1,4 +1,0 @@
--Feb. 15, 2024 (v0.1)-
->created ":save-txt-respond_no" as to end the program or go to :start
->change Save Text Document when respond with "n" or "N" to go to :save-txt-respond_no
->change :Save1-TXT and :Save2-TXT to :save-txt-respond_yes and :save-txt-respond_yes2
