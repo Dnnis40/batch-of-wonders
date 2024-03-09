@@ -2,3 +2,11 @@
 >created ":save-txt-respond_no" as to end the program or go to :start
 >change Save Text Document when respond with "n" or "N" to go to :save-txt-respond_no
 >change :Save1-TXT and :Save2-TXT to :save-txt-respond_yes and :save-txt-respond_yes2
+
+-Mar. 9, 2024 (v0.2 Demo)-
+>created ":Folder-SAVE_TXT", "folder-save-respond_yes", and "folder-save-respond_yes2" to make and put .txt files in the desired folder
+>bug found when saving into a folder that doesn't exist will saved the file in the non-existed file
+>also put 2 shift spacing due to many codes
+>renamed ":start" into ":create-TXT"
+>created ":start-Respond_3" to open .txt files
+>found out that when a existing file is in the folder and when wrote in the same file name as the existing file, it will overwrite the .txt files

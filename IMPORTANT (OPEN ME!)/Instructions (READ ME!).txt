@@ -1,2 +1,2 @@
 ---PrintText---
-• cduring typing the save name, it cannot have a space, and these character: /\*?:"|<>. otherwise the txt file will corrupt
+• during typing the save name, it cannot have a space, and these character: /\*?:"|<>. otherwise the txt file will corrupt
