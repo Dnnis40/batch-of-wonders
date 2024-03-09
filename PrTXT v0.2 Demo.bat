@@ -28,7 +28,7 @@ goto start
 :start-Respond_2
 cls
 echo Version: [0.2 Demo]
-echo Made By: Dnnis 40 (GitHub)
+echo Made By: Dnnis40 (GitHub)
 pause
 goto start
 
