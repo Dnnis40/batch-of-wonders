@@ -10,3 +10,7 @@
 >renamed ":start" into ":create-TXT"
 >created ":start-Respond_3" to open .txt files
 >found out that when a existing file is in the folder and when wrote in the same file name as the existing file, it will overwrite the .txt files
+
+-Mar. 10, 2024 (v0.2 Demo Revamp)-
+>updating ":start-Respond_3" so that it can open .txt files in a folder
+>changed the folder location symbol "/" into "\" example: "folder-name\txt-file" instead of "folder-name/txt-file"
